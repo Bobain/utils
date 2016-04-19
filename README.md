@@ -1,2 +1,0 @@
-# utils
-a toolkit package
